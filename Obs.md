@@ -1,1 +1,1 @@
-Este projeto está imcompleto... Então terão algumas coisas sem ligação alguma ou inacabadas.
+Este projeto está incompleto... Então terão algumas coisas sem ligação alguma ou inacabadas.
